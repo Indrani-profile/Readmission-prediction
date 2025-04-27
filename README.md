@@ -57,20 +57,6 @@ The target variable is whether the patient was readmitted within 30 days.
 - Number of medications and previous inpatient visits are significant predictors of readmission risk.
 - The optimized Random Forest model achieved the best performance in this case.
 
-## 📎 Project Structure
-```
-Hospital_readmission_prediction/
-│
-├── data/                     # Raw data files
-├── notebooks/                # Jupyter notebooks for EDA and modeling
-├── scripts/                  # Python scripts for preprocessing and model building
-├── models/                   # Saved models
-├── outputs/                  # Evaluation results and visualizations
-├── README.md                 # Project documentation
-├── requirements.txt          # Python dependencies
-└── airflow_dags/             # Airflow DAGs for pipeline automation (optional)
-```
-
 ## ✅ Next Steps / Future Work
 - Integrate the model into a real-time hospital dashboard.
 - Automate data ingestion and model retraining using Apache Airflow.
