@@ -1,5 +1,5 @@
 
-# Patient Readmission Risk Prediction
+# Readmission-prediction
 
 ## 📌 Project Overview
 This project focuses on predicting hospital readmissions for diabetic patients within 30 days of discharge. The goal is to help healthcare providers identify high-risk patients and enable timely interventions to reduce readmission rates, improve patient care, and optimize hospital resource utilization.
@@ -65,4 +65,3 @@ The target variable is whether the patient was readmitted within 30 days.
 
 ## 💡 Conclusion
 This project provides a machine learning-based approach to predict hospital readmissions, enabling healthcare professionals to proactively manage high-risk patients. It demonstrates the power of data science and predictive modeling in improving healthcare outcomes and operational efficiency.
-# Readmission-prediction
